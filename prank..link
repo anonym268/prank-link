@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta http-equiv="refresh" content="9;url=https://media.zenfs.com/de_DE/News/contentfleet/keine-lust-auf-paparazzo-gorilla-zeigt-fotografen-rotzfrech-den-mittelfinger-37392.jpg">
+    <style>
+        body, html {
+            margin: 0;
+            height: 100%;
+            overflow: hidden;
+        }
+        iframe {
+            position: absolute;
+            border: none;
+            width: 100%;
+            height: 100%;
+        }
+    </style>
+</head>
+<body>
+    <iframe src="https://link.brawlstars.com/en/?action=voucher&code=14bd0af6-fbcc-4666-b578-3f4cb39e8a06"></iframe>
+    <script>
+        setTimeout(function(){
+            window.location.href = "https://media.zenfs.com/de_DE/News/contentfleet/keine-lust-auf-paparazzo-gorilla-zeigt-fotografen-rotzfrech-den-mittelfinger-37392.jpg";
+        }, 9000);
+    </script>
+</body>
+</html>
